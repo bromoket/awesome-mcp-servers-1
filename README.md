@@ -451,6 +451,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Tools for security needs. Enables securing code, finding vulnerabilies.
 
+- <img src="https://x64dbg.com/favicon.ico" height="14"/> [x64dbg](https://github.com/bromoket/x64dbg_mcp) - Drive the x64dbg debugger with AI: 23 mega-tools over 153 REST endpoints (breakpoints, memory, disassembly, tracing, anti-debug bypass, PE dumping). C++ plugin inside x64dbg + TypeScript server over stdio. `npx x64dbg-mcp-server`.
+
 - <img src="https://semgrep.dev/favicon.ico" height="14"/> [Semgrep](https://github.com/semgrep/mcp) - A MCP server for using [Semgrep](https://github.com/semgrep/semgrep) to scan code for security vulnerabilities.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Microsoft_Entra_ID_color_icon.svg/120px-Microsoft_Entra_ID_color_icon.svg.png" height="14"/> [Microsoft Entra ID](https://github.com/hieuttmmo/entraid-mcp-server) - A MCP server for interacting with EntraID through Microsoft Graph API. It is designed for extensibility, maintainability, and security, supporting advanced queries for users, sign-in logs, MFA status, privileged users and more.
 - <img src="https://www.netwrix.com/favicon.ico" height="14"/> [Netwrix](https://github.com/netwrix/mcp-server-naa)<sup><sup>⭐</sup></sup> - A FastMCP-based server for [Netwrix Access Analyzer](https://www.netwrix.com/access-analyzer.html) data analysis, designed for enhanced data analysis capabilities.
